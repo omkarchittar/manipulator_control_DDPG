@@ -2,7 +2,7 @@
 
 | Agent performance at different training episodes | |
 |:-------------------------:|:-------------------------:|
-|<img src="assets/5.gif" alt="1" width = 360px height = 360px >|<img src="assets/500.gif" alt="1" width = 360px height = 360px >|
+|<img src="assets/5.gif" alt="1" width = 360px height = 360px >|<img src="assets/50.gif" alt="1" width = 360px height = 360px >|
 |<img src="assets/200.gif" alt="1" width = 360px height = 360px >|<img src="assets/1000.gif" alt="1" width = 360px height = 360px >|
 
 This project focuses on controlling a 7 DOF robot arm provided in the [panda_gym](https://github.com/qgallouedec/panda-gym) reacher environment using two continuous reinforcement learning algorithms: DDPG (Deep Deterministic Policy Gradients) and TD3 (Twin Delayed Deep Deterministic Policy Gradients). The technique of Hindsight Experience Replay is used to enhance the learning process of both algorithms.
