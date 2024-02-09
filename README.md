@@ -1,6 +1,7 @@
 # Manipulator control with Reinforcement Learning
 
-| Agent performance at different training episodes | |
+## Agent performance at different training episodes
+
 |:-------------------------:|:-------------------------:|
 |<img src="assets/5.gif" alt="1" width = 360px height = 360px >|<img src="assets/50.gif" alt="1" width = 360px height = 360px >|
 |<img src="assets/200.gif" alt="1" width = 360px height = 360px >|<img src="assets/1000.gif" alt="1" width = 360px height = 360px >|
