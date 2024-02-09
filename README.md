@@ -2,7 +2,6 @@
 
 ## Agent performance at different training episodes
 |<p style="text-align: center;">5 episodes</p>|<p style="text-align: center;">50 episodes</p>|
-|:-------------------------:|:-------------------------:|
 |<img src="assets/5.gif" alt="1" width = 360px height = 360px >|<img src="assets/50.gif" alt="1" width = 360px height = 360px >|
 |<p style="text-align: center;">200 episodes</p>|<p style="text-align: center;">1000 episodes</p>|
 |<img src="assets/200.gif" alt="1" width = 360px height = 360px >|<img src="assets/1000.gif" alt="1" width = 360px height = 360px >|
